@@ -31,13 +31,14 @@ Project mjorly built from
 Tailwind
 
 ## Demo | Netlify
+https://rodedotcom.netlify.app/
 
 
 
 ## Screenshots
+![rode1](https://user-images.githubusercontent.com/92782806/185216573-647fd52a-8e45-4e56-b7dc-fa28d10835b4.png)
 
-
-
+![rode2](https://user-images.githubusercontent.com/92782806/185216664-f6326d8b-2a22-4031-a0d8-f36be4ee715f.png)
 
 
 ## Features
